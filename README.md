@@ -50,3 +50,5 @@ made with svg elements
 
 hope you like it
 made with love by KaninHase
+
+* if you see error ,,, pls copy all the code or download it and run it ( feel free to copy )
